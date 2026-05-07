@@ -1,56 +1,56 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Olá!%20Eu%20sou%20o%20Carlos%20👋&fontSize=40&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Carlos%20Alberto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18&descColor=a0c4d8" width="100%"/>
+<br/>
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🙋 Sobre mim
 
-### 👋 Olá! Eu sou o Carlos
+Estudante de **Análise e Desenvolvimento de Sistemas**, aprofundando conhecimentos em:
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, aprofundando conhecimentos em metodologias de desenvolvimento de software, banco de dados e redes de computadores.
+- 📐 Metodologias de desenvolvimento de software
+- 🗄️ Banco de Dados
+- 🌐 Redes de Computadores
 
-Tenho interesse em atuar na área de **Análise e Gestão de Sistemas**, especialmente na tradução das necessidades do negócio em soluções tecnológicas eficientes. Gosto de organização, de entender o funcionamento dos sistemas e de trabalhar em equipe.
+Tenho interesse em **Análise e Gestão de Sistemas**, especialmente na tradução das necessidades do negócio em soluções tecnológicas eficientes.
 
-> 🎯 **Em busca de uma oportunidade de estágio** para aplicar na prática o que venho aprendendo!
+Gosto de organização, de entender o funcionamento dos sistemas e de trabalhar em equipe.
 
----
+> 🎯 Em busca de uma **oportunidade de estágio**!
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" />
 
-</div>
-
----
-
-### 📚 Áreas de Interesse
-
-- 🗄️ Banco de Dados
-- 🌐 Redes de Computadores
-- 🔄 Metodologias de Desenvolvimento de Software
-- 📊 Análise e Gestão de Sistemas
-
----
+<br/><br/>
 
 ### 📫 Contato
 
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ConnorOmarley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConnorOmarley)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Alberto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-7154b3344)
+[![GitHub](https://img.shields.io/badge/GitHub-ConnorOmarley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConnorOmarley)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ConnorOmarley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorOmarley&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
