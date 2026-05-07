@@ -42,15 +42,4 @@ Gosto de organização, de entender o funcionamento dos sistemas e de trabalhar 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ConnorOmarley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorOmarley&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
