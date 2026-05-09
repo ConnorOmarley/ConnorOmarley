@@ -1,10 +1,13 @@
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Carlos+Alberto)](https://git.io/typing-svg)
+<div align="center">
 
-### Análise e Desenvolvimento de Sistemas 🎓<br>
-### Interesse em Análise e Gestão de Sistemas 💡
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Carlos+Alberto.)](https://git.io/typing-svg)
+
+</div>
+
+### Desenvolvimento Web | Banco de Dados | Gestão de Sistemas 💡
 
   <p align="center">
   <a href="https://www.linkedin.com/in/carlos-alberto-7154b3344/">
@@ -18,13 +21,13 @@
 <br/>
 <div align="justify">
 
-Sou o Carlos Alberto, estudante de **Análise e Desenvolvimento de Sistemas**, aprofundando meus conhecimentos em metodologias de desenvolvimento de software, banco de dados e redes de computadores.
+Desenvolvedor com foco em **Análise e Gestão de Sistemas**, especializado em transformar necessidades do negócio em soluções tecnológicas eficientes e escaláveis.
 
-Tenho interesse em atuar na área de **Análise e Gestão de Sistemas**, especialmente participando da tradução das necessidades do negócio em soluções tecnológicas eficientes.
+Possuo habilidades sólidas em **desenvolvimento web** com HTML, CSS, JavaScript e PHP, além de conhecimento em **banco de dados** e **redes de computadores**. Tenho experiência com metodologias de desenvolvimento de software e forte capacidade analítica para entender o funcionamento de sistemas complexos.
 
-Gosto de organização, de entender o funcionamento dos sistemas e de trabalhar em equipe.
+Orientado a resultados, organizado e colaborativo — acredito que boas soluções nascem da combinação entre tecnologia e trabalho em equipe.
 
-> 🎯 Em busca de uma **oportunidade de estágio** para aplicar na prática o que venho aprendendo e continuar evoluindo como profissional.
+> *"A tecnologia move o mundo."* — Steve Jobs
 
 <br>
 
