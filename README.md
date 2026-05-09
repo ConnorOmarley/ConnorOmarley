@@ -57,13 +57,6 @@ Orientado a resultados, organizado e colaborativo — acredito que boas soluçõ
 
 <br>
 
-<h3>📊 Estatísticas do GitHub</h3>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ConnorOmarley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorOmarley&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
 <br>
 
 <div align="center">
