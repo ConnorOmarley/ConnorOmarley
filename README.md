@@ -67,7 +67,7 @@ Orientado a resultados, organizado e colaborativo — acredito que boas soluçõ
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ConnorOmarley/ConnorOmarley/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ConnorOmarley/ConnorOmarley/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 </div>
