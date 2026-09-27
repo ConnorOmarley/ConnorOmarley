@@ -27,6 +27,12 @@ Transformo necessidade de negócio em sistema que funciona: banco de dados, regr
 
 Outros repositórios: [portfolio](https://github.com/ConnorOmarley/portfolio) (site pessoal, Next.js) · [ProjetoExtens-o](https://github.com/ConnorOmarley/ProjetoExtens-o) · [tecsuporte-recife](https://github.com/ConnorOmarley/tecsuporte-recife)
 
+### Colaborações
+
+**[[InterADS4M](https://github.com/Matheus-Br09/InterADS4M)](https://github.com/Matheus-Br09/InterADS4M)** — plataforma web para a ONG SOS: divulgação de ações, angariação de doações e gestão de apoiadores, voluntários e crianças atendidas. Com [@Matheus-Br09](https://github.com/Matheus-Br09) e mais cinco pessoas. **42 dos 95 commits são meus** (44% do histórico): integração de pagamento e matrícula, validação da API contra o front, troca de senha obrigatória no primeiro acesso e a rotação das quatro contas. Laravel 13 · PHP 8.4 · MySQL · React 19 · Vite · Docker.
+
+Trabalho em repo de outra pessoa, então ele fica no dono original em vez de virar fork — o histórico é um só e todo mundo vê a mesma coisa.
+
 ### O que aparece nos repositórios
 
 - **A regra mora no banco, não no formulário.** Validação no servidor e no banco, pra valer inclusive quando alguém chama a API direto.
