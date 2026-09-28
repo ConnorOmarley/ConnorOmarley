@@ -35,7 +35,7 @@
 
 </details>
 
-<p align="center"><img src="./assets/section-divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="./assets/section-divider.gif" width="100%" alt=""></p>
 
 ## ⚔️ Tecnologias
 
@@ -75,7 +75,7 @@
 </p>
 <p align="center"><sub>PostgreSQL · MySQL / MariaDB · SQLite · Supabase</sub></p>
 
-<p align="center"><img src="./assets/section-divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="./assets/section-divider.gif" width="100%" alt=""></p>
 
 ## 🛠️ Ferramentas que uso
 
@@ -94,7 +94,7 @@
   <img src="./assets/badge-docker.svg" alt="Docker">
 </p>
 
-<p align="center"><img src="./assets/section-divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="./assets/section-divider.gif" width="100%" alt=""></p>
 
 **Em equipe:** [InterADS4M / ONG SOS](https://github.com/Matheus-Br09/InterADS4M), com @Matheus-Br09 e equipe, e [Pizzaria Taurus](https://github.com/ConnorOmarley/pizzaria), com [@Fabioshit](https://github.com/Fabioshit).
 
