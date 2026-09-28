@@ -35,11 +35,66 @@
 
 </details>
 
-## Tecnologias
+<p align="center"><img src="./assets/section-divider.svg" width="100%" alt=""></p>
 
-**Frontend** &nbsp; React · Next.js · TypeScript · JavaScript · Tailwind CSS<br>
-**Backend** &nbsp; Node.js · Express · PHP · Supabase<br>
-**Dados** &nbsp; PostgreSQL · MySQL / MariaDB · SQLite
+## ⚔️ Tecnologias
+
+<p align="center"><strong>Linguagens</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="HTML">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="48" height="48" alt="CSS">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" height="48" alt="PHP">
+</p>
+<p align="center">
+  <img src="./assets/badge-javascript.svg" alt="JavaScript">
+  <img src="./assets/badge-typescript.svg" alt="TypeScript">
+  <img src="./assets/badge-html.svg" alt="HTML">
+  <img src="./assets/badge-css.svg" alt="CSS">
+  <img src="./assets/badge-php.svg" alt="PHP">
+</p>
+
+<p align="center"><strong>Frontend &amp; Backend</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="48" height="48" alt="Next.js">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind CSS">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" height="48" alt="Laravel">
+</p>
+<p align="center"><sub>React · Next.js · Tailwind CSS · Node.js · Express · Laravel</sub></p>
+
+<p align="center"><strong>Banco de dados &amp; Serviços</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="48" height="48" alt="SQLite">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" width="48" height="48" alt="Supabase">
+</p>
+<p align="center"><sub>PostgreSQL · MySQL / MariaDB · SQLite · Supabase</sub></p>
+
+<p align="center"><img src="./assets/section-divider.svg" width="100%" alt=""></p>
+
+## 🛠️ Ferramentas que uso
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="48" height="48" alt="Figma">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" height="48" alt="Docker">
+</p>
+<p align="center">
+  <img src="./assets/badge-git.svg" alt="Git">
+  <img src="./assets/badge-github.svg" alt="GitHub">
+  <img src="./assets/badge-vs_code.svg" alt="Visual Studio Code">
+  <img src="./assets/badge-figma.svg" alt="Figma">
+  <img src="./assets/badge-docker.svg" alt="Docker">
+</p>
+
+<p align="center"><img src="./assets/section-divider.svg" width="100%" alt=""></p>
 
 **Em equipe:** [InterADS4M / ONG SOS](https://github.com/Matheus-Br09/InterADS4M), com @Matheus-Br09 e equipe, e [Pizzaria Taurus](https://github.com/ConnorOmarley/pizzaria), com [@Fabioshit](https://github.com/Fabioshit).
 
