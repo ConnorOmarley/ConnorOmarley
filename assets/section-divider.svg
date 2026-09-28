@@ -1,1 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24"><defs><linearGradient id="line"><stop stop-color="#39e7c0"/><stop offset=".32" stop-color="#79c0ff"/><stop offset=".55" stop-color="#a371f7"/><stop offset=".78" stop-color="#79c0ff"/><stop offset="1" stop-color="#39e7c0"/></linearGradient></defs><path d="M24 12H320L326 10H345L351 12H876" fill="none" stroke="url(#line)" stroke-width="2"/><path d="m18 12 6-4 6 4-6 4Zm852 0 6-4 6 4-6 4Z" fill="#39e7c0"/><circle cx="490" cy="12" r="3" fill="#79e9f1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" aria-hidden="true">
+  <defs>
+    <linearGradient id="line">
+      <stop stop-color="#39e7c0"/>
+      <stop offset=".32" stop-color="#79c0ff"/>
+      <stop offset=".55" stop-color="#a371f7"/>
+      <stop offset=".78" stop-color="#79c0ff"/>
+      <stop offset="1" stop-color="#39e7c0"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#a9faff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#79e9f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .traveler { animation: travel 5s linear infinite; }
+    .endpoints { animation: breathe 3s ease-in-out infinite; }
+    @keyframes travel {
+      0% { transform: translateX(0); opacity: 0; }
+      5% { opacity: 1; }
+      95% { opacity: 1; }
+      100% { transform: translateX(852px); opacity: 0; }
+    }
+    @keyframes breathe {
+      0%,100% { opacity: .65; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .traveler { animation: none; transform: translateX(426px); opacity: .8; }
+      .endpoints { animation: none; opacity: 1; }
+    }
+  </style>
+  <path d="M24 12H320L326 10H345L351 12H876" fill="none" stroke="url(#line)" stroke-width="5" opacity=".12"/>
+  <path d="M24 12H320L326 10H345L351 12H876" fill="none" stroke="url(#line)" stroke-width="1.5"/>
+  <path class="endpoints" d="m18 12 6-4 6 4-6 4Zm852 0 6-4 6 4-6 4Z" fill="#39e7c0"/>
+  <g class="traveler">
+    <circle cx="24" cy="12" r="10" fill="url(#halo)"/>
+    <circle cx="24" cy="12" r="2.5" fill="#d8ffff"/>
+  </g>
+</svg>
