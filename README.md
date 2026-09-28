@@ -12,6 +12,10 @@
 
 <p align="center">Desenvolvedor full-stack em Recife.<br>Construo sistemas de gestão, agendamento e comércio — da interface ao banco de dados.</p>
 
+<p align="center">
+<img src="https://www.gitskins.com/api/section/chess?username=connoromarley&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224454549%3Fu%3Dfbe0589aa907e6339340a9f4a3f15062582a12bf%26v%3D4&v=showcase-chess-2" width="360" alt="Animação decorativa de um tabuleiro de xadrez" />
+</p>
+
 ## Projetos em destaque
 
 <p align="center">
@@ -119,11 +123,6 @@
 [Consultar minhas contribuições no GitHub](https://github.com/ConnorOmarley?tab=overview).
 
 </details>
-
-<br>
-<p align="center">
-<img src="https://www.gitskins.com/api/section/chess?username=connoromarley&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224454549%3Fu%3Dfbe0589aa907e6339340a9f4a3f15062582a12bf%26v%3D4&v=showcase-chess-2" width="360" alt="Animação decorativa de um tabuleiro de xadrez" />
-</p>
 
 <p align="center">
   <strong>Vamos conversar sobre seu próximo projeto?</strong><br>
