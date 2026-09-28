@@ -1,0 +1,41 @@
+name: Atualizar nave de contribuicoes
+
+on:
+  schedule:
+    # 06:00 UTC = 03:00 em Recife.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/space-shooter.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-space-shooter
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'ConnorOmarley/ConnorOmarley'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Obter arquivos do perfil
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Gerar e salvar animacao
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ConnorOmarley
+          output-path: assets/contribution-space-shooter.gif
+          strategy: random
+          fps: '25'
+          no-amend: 'true'
+          commit-message: 'Atualiza animacao das contribuicoes'
