@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=connoromarley&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224454549%3Fu%3Dfbe0589aa907e6339340a9f4a3f15062582a12bf%26v%3D4&v=showcase-heatmap-5" alt="Carlos Alberto heatmap visual" />
+<img src="./assets/contribution-space-shooter.gif" width="100%" alt="Nave destruindo os blocos das minhas contribuições no GitHub — atualização diária" />
 </p>
 
 <p align="center">
