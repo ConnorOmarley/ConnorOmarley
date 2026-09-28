@@ -6,7 +6,7 @@
 
 Transformo necessidade de negócio em sistema que funciona: banco de dados, regras de negócio e uma interface que aguenta o uso real.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-7154b3344/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mchagas)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConnorOmarley)
 
 🌐 **[portfolio-mauve-two-57.vercel.app](https://portfolio-mauve-two-57.vercel.app)**
